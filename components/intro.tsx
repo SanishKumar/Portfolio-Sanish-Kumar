@@ -22,7 +22,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src=""
+              src="/sanish.jpg"
               alt="Sanish Portrait"
               width="192"
               height="192"
